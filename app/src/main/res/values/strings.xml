@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenusAndDialogs</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="meal_composition">
+        <item>Bread</item>
+        <item>Eggs</item>
+        <item>Coffee</item>
+        <item>Butter</item>
+        <item>Salad</item>
+    </string-array>
+</resources>
